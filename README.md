@@ -4,7 +4,7 @@ Kun stacks – Portainer kører allerede på maskinen.
 
 ### Sådan deployer du
 I Portainer → Stacks → Add stack → Git repository  
-- Repository URL: https://github.com/dit-brugernavn/docker-selfhosted-template.git  
+- Repository URL: https://github.com/borgersupportcom/voresid.com.git  
 - Compose path: `stacks/traefik/docker-compose.yml` (eller hvilken stack du vil)
 
 ### Opdatering af alle stacks
