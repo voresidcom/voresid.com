@@ -10,5 +10,5 @@ I Portainer → Stacks → Add stack → Git repository
 ### Opdatering af alle stacks
 Kør på Pi'en:
 ```bash
-cd /home/deb0001/docker-selfhosted-template
+cd /home/deb0001/voresid.com
 ./scripts/update-all.sh
